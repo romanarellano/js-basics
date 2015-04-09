@@ -8,7 +8,7 @@ var person={
 
   name:name,
 age:54
-}
+};
 /* Create a function called `greet`,
  * it should take a 1 parameter, `name`
  * and it should print "Hello, my name is {name}"
